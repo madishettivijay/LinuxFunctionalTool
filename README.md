@@ -1,5 +1,5 @@
 # LinuxFunctionalTool
-Linux Functional Account Creator
+Linux Functional Account Creator<br>
 This tool can be used to create functional account in multiple system.
 
 In the username and password field, enter the root privilage credentials.<br>
