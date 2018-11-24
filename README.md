@@ -1,4 +1,4 @@
-# LinuxFunctionalTool
+# Linux Functional Account Creator Tool
 Linux Functional Account Creator<br>
 This tool can be used to create functional account in multiple system.
 
